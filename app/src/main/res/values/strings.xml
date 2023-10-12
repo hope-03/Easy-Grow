@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Easy Grow</string>
+    <string name="t1">The</string>
+    <string name="t2">future of</string>
+    <string name="t3">irrigation</string>
+    <string name="t4">is now</string>
+
+    <string name="title2">Easy Grow</string>
+    <string name="desc">image of water droplet</string>
+    <string name="butn1">NEXT</string>
+    <string name="butn2">Our Product</string>
+    <string name="contact">Contact us at easygrow@gmail.com </string>
+    <string name="h1">Please enter serial number</string>
+    <string name="h2">found on your device</string>
+
+    <string name="hh1">Dashboard </string>
+    <string name="hh2">Today </string>
+    <string name="hh3">Back </string>
+    <string name="hh4">Soil Moisture: </string>
+    <string name="hh5">Moisture value</string>
+    <string name="hh6">Irrigation status: </string>
+    <string name="hh7">Irrigation status</string>
+
+
+    <string name="hh8">An Automated Irrigation System</string>
+    <string name="hh9">system</string>
+
+    <string name="mult">This system offer significant benefits for efficient and effective watering.These systems utilize sensors,actuators and programmable settings to deliver the right amount of water at the optimal time, resulting in water conservation and minimized waste. By maintaining proper soil moisture levels,they promote healthy plant growth and reduce the risk of diseases caused by improper watering. With this system,the need for manual watering is eliminated, saving time and effort.</string>
+
+
+
+</resources>

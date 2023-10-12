@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583645290053",
+    "firebase_url": "https://automated-irrigation-sys-ea9ef-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "automated-irrigation-sys-ea9ef",
+    "storage_bucket": "automated-irrigation-sys-ea9ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583645290053:android:b8de1fefe88af52ca04d2c",
+        "android_client_info": {
+          "package_name": "com.example.easygrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583645290053-rj7cb125upng8m0c4rm6qlhsubvcug02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3vu2QYhphbihHo16NIsUG1sEoO_PuZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583645290053-rj7cb125upng8m0c4rm6qlhsubvcug02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
